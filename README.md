@@ -22,3 +22,15 @@ Please see the sample attachments
 
 <img width="958" alt="reaact-note-app" src="https://user-images.githubusercontent.com/74021594/135141831-98c2ab20-b625-481f-b555-fbea02387f1a.PNG">
 
+
+
+
+<img width="960" alt="add-note" src="https://user-images.githubusercontent.com/74021594/135143442-bb2567b9-a712-4a6c-90b0-351be081eca2.PNG">
+
+
+<img width="960" alt="Tags-notes" src="https://user-images.githubusercontent.com/74021594/135143600-12c40e45-734f-486c-96b1-bb37274bf0a3.PNG">
+
+
+<img width="960" alt="database-notes" src="https://user-images.githubusercontent.com/74021594/135143663-f487ce5d-bed4-457c-9ee8-bb4a1198a6db.PNG">
+
+
