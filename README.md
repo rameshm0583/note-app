@@ -9,3 +9,4 @@ Design - Material UI
 There are two code bases one is for React and another for Laravel.
 React will run on PORT 3000 and Laravel will run on PORT 8000
 
+Sample Database added.
